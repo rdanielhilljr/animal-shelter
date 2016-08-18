@@ -1,0 +1,30 @@
+/* Styles*/
+
+html {
+  background-color: #f5f5f0;
+}
+body {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+img {
+  height: auto;
+  max-width: 250px;
+}
+.column {
+  height: 400px;
+  width: 300px;
+  padding: 4px;
+  border: 2px solid blue;
+  margin: 5px;
+  display: inline-block;
+  float: left;
+}
+.dog-name {
+  font-size: 1em;
+  font-style: italic;
+}
+.main p a {
+  color: red;
+}
